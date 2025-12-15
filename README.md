@@ -1,2 +1,2 @@
 # recette-cookies
-"> Une recette gourmande :p"
+> Une recette gourmande :p
